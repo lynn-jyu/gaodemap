@@ -1,0 +1,10 @@
+{
+  "domain": "ha_gaodemap_honda_tracker",
+  "name": "gaodemap-honda-tracker",
+  "documentation": "https://github.com/lynn-jyu/ha-gaodemap-honda-tracker",
+  "version": "1.0.0",
+  "dependencies": [
+    "zone"
+  ],
+  "codeowners": ["@lynn"]
+}
